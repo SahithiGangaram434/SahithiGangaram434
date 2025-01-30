@@ -30,4 +30,4 @@ I'm passionate about data science, machine learning, and computational research.
   📧 <strong>Email:</strong> your.email@example.com
 </p>
 
-<p align="center">Thanks for stopping by! 🚀</p>
+<p align="center">Thanks for stopping by! 🚀</p> 
