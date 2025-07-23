@@ -8,7 +8,7 @@ I'm passionate about data science, machine learning, and computational research.
 <h2>🔍 About Me</h2>
 
 <ul>
-  <li>🎓 <strong>Education:</strong> Graduated from Emory University in May 2024 (B.S. in Quantitative Sciences)</li>
+  <li>🎓 <strong>Education:</strong> Graduated from Emory University in August 2024 (B.S. in Quantitative Sciences)</li>
   <li>💡 <strong>Interests:</strong> Data Science | Machine Learning | Computational Biology | Healthcare Analytics</li>
   <li>🔬 <strong>Research:</strong> Experience in statistical modeling, bioinformatics, and healthcare data analysis</li>
   <li>⚡ <strong>Skills:</strong> Python | R | SQL | Data Visualization | Statistical Analysis | Machine Learning</li>
