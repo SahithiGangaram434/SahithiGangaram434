@@ -28,7 +28,7 @@ I'm passionate about data science, machine learning, and computational research.
 <p>
   🔗 <a href="https://www.linkedin.com/in/gangaram-sahithi1/">LinkedIn</a> <br>
   📝 <a href="https://orcid.org/0009-0008-8111-9877">ORCID</a> <br>
-  📧 <strong>Email:</strong> sgangar@emory.edu
+  📧 <strong>Email:</strong> gangaramsahithi@alumni.emory.edu
 </p>
 
 <p align="center">Thanks for stopping by! 🚀</p>
