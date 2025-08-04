@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
 <p align="center">
-I'm passionate about data science, machine learning, and computational research. My work focuses on leveraging analytical tools like Python, R, and SQL to extract meaningful insights from complex datasets.
+I'm passionate about data science and computational research. My work focuses on leveraging analytical tools like Python, R, and SQL to extract meaningful insights from complex datasets.
 </p>
 
 <h2>🔍 About Me</h2>
